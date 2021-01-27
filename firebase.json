@@ -6,5 +6,12 @@
       "**/.*",
       "**/node_modules/**"
     ]
-  }
+  },
+  "apiKey": "AIzaSyAKpFN6OOItslATRjA2Y3tYh9O9GGQBRS0",
+  "authDomain": "ferrari-lab.firebaseapp.com",
+  "projectId": "ferrari-lab",
+  "storageBucket": "ferrari-lab.appspot.com",
+  "messagingSenderId": "429294421509",
+  "appId": "1:429294421509:web:9a6eecda11527e27483e6c",
+  "measurementId": "G-0755JF1N3V"
 }
